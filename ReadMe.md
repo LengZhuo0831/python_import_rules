@@ -3,12 +3,21 @@ This repo shows us how to import vars, modules or packages in python projects fo
 这个文件向新学者展示python项目中如何使用import来引用你想要的变量、模块或者包。
 
 ## 2. import 同一个目录下的变量、类、模块、包
-|--Project  
-|   |- main.py  
-|   |- a.py  
-|   |- b.py  
-|   |- pkg1  
-|   |   |-c1.py
+Project  
+├── main.py  
+├── a.py  
+├── b.py  
+├── pkg1  
+├ ├── c1.py
+├ ├── util
+├ ├  ├── util1.py
+├── pkg2
+├ ├── d.py
+├ ├── pkg11.py
+├ ├── pkg22
+├ ├  ├── e.py
+├ ├── pkg23
+├ ├  ├── f.py
 
 
 ### 2.1 from a import xxx
