@@ -8,16 +8,16 @@ Project
 ├── a.py  
 ├── b.py  
 ├── pkg1  
-├ ├── c1.py
-├ ├── util
-├ ├  ├── util1.py
-├── pkg2
-├ ├── d.py
-├ ├── pkg11.py
-├ ├── pkg22
-├ ├  ├── e.py
-├ ├── pkg23
-├ ├  ├── f.py
+├ ├── c1.py  
+├ ├── util  
+├ ├  ├── util1.py  
+├── pkg2  
+├ ├── d.py  
+├ ├── pkg11.py  
+├ ├── pkg22  
+├ ├  ├── e.py  
+├ ├── pkg23  
+├ ├  ├── f.py  
 
 
 ### 2.1 from a import xxx
