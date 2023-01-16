@@ -1,0 +1,1 @@
+name = "I'm c1.py in pkg1"
