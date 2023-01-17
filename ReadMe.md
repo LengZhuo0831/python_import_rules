@@ -210,6 +210,6 @@ ffffff
 另外，pkg1 和 pkg2 均处于项目的根目录下，他们无法相对引用。除非需要运行的py文件是与根目录同级的。如果你一定要在pkg2的文件中引用pkg1的话，请使用绝对引用。
 
 ### 3.5 总结，运行py绝对引用，不在同一个目录就去添加path（3.1）；被引用的文件才用相对目录
-作者：Leng Zhuo，冷焯
-日期：2023.01.16
-email：len@stu.pku.edu.cn
+作者：Leng Zhuo，冷焯  
+日期：2023.01.16  
+email：len@stu.pku.edu.cn  
